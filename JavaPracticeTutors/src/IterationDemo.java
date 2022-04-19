@@ -1,12 +1,7 @@
 
 /*
  
- * * * * *
- * * * * * 
- * * * * * 
- * * * * * 
- * * * * *  
- 
+ This is * pattern printing demo.
  */
 public class IterationDemo {
 
